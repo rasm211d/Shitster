@@ -17,7 +17,8 @@ public class Main {
         rasmusLort.erDenSund();
         System.out.println("Rasmus' lort er " + rasmusLort.temp + "grader varm");
 
-        System.out.println();
+        System.out.println("You got forked");
+
 
 
 
